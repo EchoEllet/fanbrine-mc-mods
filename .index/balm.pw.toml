@@ -1,0 +1,13 @@
+filename = 'balm-fabric-1.20.4-9.0.6.jar'
+name = 'Balm'
+side = 'both'
+
+[download]
+hash = '7c85cb01856ded244a0ebbc9da1c5a2c3d8b1744e7e349893d7b6daccbe73687d9180e1c84cd82f88e7ad32b9f5e37f2c8bae168f9dc16e85645083c75b3b6e5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MBAkmtvl/versions/kjIgNYGA/balm-fabric-1.20.4-9.0.6.jar'
+
+[update.modrinth]
+mod-id = 'MBAkmtvl'
+version = 'kjIgNYGA'

@@ -1,0 +1,13 @@
+filename = 'tru.e-ending-v1.1.0b.jar'
+name = 'True Ending: Ender Dragon Overhaul'
+side = 'server'
+
+[download]
+hash = '52e4149ba63fe9bce1b8bac060469162e830f5eb55c9412ab9bf73e593314424124f877d84fe47fbb7b21e756cc5dce328e97fa8ba466739d07aedb182bbc92c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MCnBYP0b/versions/ICaor2G2/tru.e-ending-v1.1.0b.jar'
+
+[update.modrinth]
+mod-id = 'MCnBYP0b'
+version = 'ICaor2G2'

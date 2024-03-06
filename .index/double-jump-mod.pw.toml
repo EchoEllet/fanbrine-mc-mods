@@ -1,0 +1,13 @@
+filename = 'doublejump-1.0.1+mc1.20.jar'
+name = 'Double Jump Mod [Fabric]'
+side = 'both'
+
+[download]
+hash = '9727647be8c81d449efef90bcbe889db000802f3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4572263
+project-id = 401683

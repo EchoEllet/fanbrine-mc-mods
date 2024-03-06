@@ -1,0 +1,13 @@
+filename = 'Zoomify-2.13.0.jar'
+name = 'Zoomify'
+side = 'client'
+
+[download]
+hash = 'c169d65a99a54cfbdf8cb13edad8f11f1dffbae0f407c4d41058fa317052f52686429d51dbc17a9f572ca4e40f6bee2001b68713cfe45915fb65b9bf96a917b0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/w7ThoJFB/versions/JiEpJuon/Zoomify-2.13.0.jar'
+
+[update.modrinth]
+mod-id = 'w7ThoJFB'
+version = 'JiEpJuon'

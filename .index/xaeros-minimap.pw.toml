@@ -1,0 +1,13 @@
+filename = 'Xaeros_Minimap_23.9.7_Fabric_1.20.4.jar'
+name = "Xaero's Minimap"
+side = 'client'
+
+[download]
+hash = 'b2fdaf6154d1258467c8c5d5eb6d6b26f30ce63dadeca8ad3f0c5a440eff39f8b5462826506b65fded91e83f8f082f5c7d1866fc3dd31072de56347ab01cf46c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1bokaNcj/versions/LLE04weG/Xaeros_Minimap_23.9.7_Fabric_1.20.4.jar'
+
+[update.modrinth]
+mod-id = '1bokaNcj'
+version = 'LLE04weG'

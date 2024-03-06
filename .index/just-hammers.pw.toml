@@ -1,0 +1,13 @@
+filename = 'just-hammers-fabric-84.0.0.jar'
+name = 'Just Hammers'
+side = 'both'
+
+[download]
+hash = '0653558d3178b9890b23618cd6c01f3316d533902f4fa089cf27f6d6681de733611584ab43d1eb312d5e3b9aa1920973242101651e3821340eafd90d0edf7886'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/edU0NbZZ/versions/RqRzRJge/just-hammers-fabric-84.0.0.jar'
+
+[update.modrinth]
+mod-id = 'edU0NbZZ'
+version = 'RqRzRJge'

@@ -1,0 +1,13 @@
+filename = 'uselessreptile-0.6.5-1.20.4.jar'
+name = 'Useless Reptile'
+side = 'both'
+
+[download]
+hash = '24b84008fa7dbcb9974d8123d1899d3cef09cf464089e5b1c12ce9797bb7250039f3d968dc7e9208832ad8f04d99bf0ebfbc67bf96f62387911810bad0504db0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YE4QRt8F/versions/pF8yNv6p/uselessreptile-0.6.5-1.20.4.jar'
+
+[update.modrinth]
+mod-id = 'YE4QRt8F'
+version = 'pF8yNv6p'

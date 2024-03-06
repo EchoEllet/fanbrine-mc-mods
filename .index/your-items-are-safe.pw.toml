@@ -1,0 +1,13 @@
+filename = 'youritemsaresafe-1.20.4-4.0.jar'
+name = 'Your Items Are Safe'
+side = 'server'
+
+[download]
+hash = '06ce225ff47f336f000384d0340e21f8a0aeecaa1fdaddc5f991aaabbc9befe74a98f89a61cf5f88149cf82fa9816b574553d6094e3e5bd7d175801ec4887ba5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lL35xmSR/versions/JQKxfiS4/youritemsaresafe-1.20.4-4.0.jar'
+
+[update.modrinth]
+mod-id = 'lL35xmSR'
+version = 'JQKxfiS4'

@@ -1,0 +1,13 @@
+filename = 'CraftableSaddle-1.20.4-1.6.6.jar'
+name = 'Easy Craft Saddles'
+side = 'server'
+
+[download]
+hash = 'e8c22cab29b02aefeb3115f792e81fdcda950aa100a0ab4fc9f11dc892d7b0a10605710163e1ec7347501f4f178af8b4c72ec751a5effc292394bae9d89ed7f8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kdsyQx2S/versions/Gan3VylN/CraftableSaddle-1.20.4-1.6.6.jar'
+
+[update.modrinth]
+mod-id = 'kdsyQx2S'
+version = 'Gan3VylN'
